@@ -1,0 +1,46 @@
+{
+	"PD" : {
+		"Shifts" : ["2_1","3_2"],
+		"Structure" : {
+			"Offgoing" : {
+				"Type" : "Category",
+				"Properties" : {},
+				"Children" : {
+					"Delay" : {
+						"Type" : "Category",
+						"Children" : {
+							"CalibrationName" : {
+								"Type" : "Calibration"
+							}
+						}
+					},
+					"CalibrationName" : {
+						"Type" : "Calibration"
+					},
+					"CalibrationName2" : {
+						"Type" : "Calibration"
+					}
+				}
+			}
+		}
+	},
+	"PDLT" : {
+		"Shifts" : ["2_1","3_2"],
+		"Structure" : {
+			"Offgoing" : {
+				"Type" : "Category",
+				"Properties" : {},
+				"Children" : {
+					"Delay" : {
+						"Type" : "Category",
+						"Children" : {
+							"CalibrationName" : {
+								"Type" : "Calibration"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
